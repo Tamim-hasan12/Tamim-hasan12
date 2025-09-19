@@ -3,7 +3,7 @@
 
 I'm currently building my skills in software testing and quality assurance.  
 I have experience in manual testing, test case creation, bug reporting, and GitHub workflows.  
-📄 [Download My CV](https://github.com/Tamim-Hasan21/Tamim-Hasan-CV/blob/main/Tamim-Hasan-CV.pdf)  
+📄 [Download My CV](https://github.com/Tamim-hasan12/Tamim-hasan12/blob/main/Tamim.hasan.pdf)  
 📫 Reach me: tamimhasanshad333@gmail.com
 
 ---
