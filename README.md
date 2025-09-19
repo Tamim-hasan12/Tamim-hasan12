@@ -42,7 +42,7 @@ Daffodil International University (2022–2026)
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tamim-hasan)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/tamim-hasan](https://www.linkedin.com/in/tamim-hasan-00199625b/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:tamimhasanshad333@gmail.com)
 
 ---
