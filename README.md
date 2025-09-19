@@ -2,8 +2,7 @@
 <h3 align="center">An aspiring Software Quality Assurance Engineer from Bangladesh</h3>
 
 🔭 I’m currently working on QA documentation for [sazshop.vercel.app](https://sazshop.vercel.app)  
-🌱 Learning TestOps, manual testing best practices, and GitHub workflows  
-📄 Know about my experiences: [Portfolio](https://your-portfolio-link.com)  
+🌱 Learning TestOps, manual testing best practices, and GitHub workflows   
 📫 Reach me: tamimhasanshad333@gmail.com
 
 ---
