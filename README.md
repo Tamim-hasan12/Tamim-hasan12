@@ -29,10 +29,7 @@ I have experience in manual testing, test case creation, bug reporting, and GitH
   Created a responsive pet website using HTML, CSS, and JavaScript  
   [Live Site](https://petsvet-frontend.vercel.app) | [Source Code](https://github.com/Tamim-Hasan21/Manual-QA-Docs)
 
-- 🛒 **E-commerce Admin Dashboard**  
-  Performed CRUD testing, error handling, and data validation  
-  [Source Code](https://github.com/Tamim-Hasan21/Ecommerce-Admin-Dashboard)
-
+  
 ---
 
 ### 🎓 Education:
