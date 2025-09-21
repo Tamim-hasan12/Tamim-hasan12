@@ -27,7 +27,7 @@ I have experience in manual testing, test case creation, bug reporting, and GitH
 ### 📌 Projects:
 - 🐾 **Pets Vet Website**  
   Created a responsive pet website using HTML, CSS, and JavaScript  
-  [Live Site](https://petsvet-frontend.vercel.app) | [Source Code](https://github.com/Tamim-Hasan21/Manual-QA-Docs)
+  [Live Site](https://petsvet-frontend.vercel.app) | [Source Code](https://github.com/Tamim-hasan12/Manual-QA-Docs)
 
   
 ---
