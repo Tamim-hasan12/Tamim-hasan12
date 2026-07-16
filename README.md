@@ -5,7 +5,7 @@ I'm a Junior Software Quality Assurance Engineer passionate about building high-
 
 - 💼 Junior SQA Engineer
 - 🌱 Currently learning advanced Playwright, API Testing, and CI/CD
-- - 📄 [Download My CV](https://github.com/Tamim-hasan12/Tamim-hasan12/blob/main/Tamim_Hasan_CV.pdf)
+- 📄 [Download My CV](https://github.com/Tamim-hasan12/Tamim-hasan12/blob/main/Tamim_Hasan_CV.pdf)
 - 📫 Reach me: **tamimhasanshad333@gmail.com**
 - 💡 Open to collaborating on QA Automation projects
 
