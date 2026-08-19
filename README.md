@@ -19,6 +19,8 @@
 
 ## `[ HUNTER_ID ]`
 
+<img align="right" src="profile-terminal.png" width="300"/>
+
 ```
 ╔════════════════════════════════════════════════╗
 ║  Hunter_ID : Md. Tamim Hasan                    ║
@@ -32,6 +34,8 @@
 ║  THREAT_LVL: ☠☠☠☠ ↑ · BUGS BEWARE              ║
 ╚════════════════════════════════════════════════╝
 ```
+
+<br clear="right"/>
 
 ## `[ CURRENT_MISSION ]`
 
