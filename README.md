@@ -1,33 +1,35 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00F7C0&center=true&vCenter=true&width=600&lines=MD.+TAMIM+HASAN" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:003D33,100:0D1117&text=MD.%20TAMIM%20HASAN&fontSize=50&fontColor=00F7C0&fontAlignY=42&desc=◆%20JUNIOR%20SQA%20ENGINEER%20◆%20MANUAL%20+%20AUTOMATION%20QA%20◆&descSize=15&descAlignY=62&descFontColor=6FFFE0&animation=twinkling&stroke=00F7C0&strokeWidth=1"/>
 
-### ◆ JUNIOR SQA ENGINEER ◆ MANUAL + AUTOMATION QA ◆ BANGLADESH
+<br/>
 
-**▶ MISSION: BUILDING HIGH-QUALITY SOFTWARE, ONE TEST CASE AT A TIME**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7C0&center=true&vCenter=true&width=650&lines=BUILDING+HIGH-QUALITY+SOFTWARE%2C+ONE+TEST+CASE+AT+A+TIME;DESIGNING+TEST+CASES+%7C+HUNTING+BUGS;PLAYWRIGHT+%7C+POSTMAN+%7C+K6+%7C+JIRA" alt="Typing SVG" />
+
+<br/>
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge)
 ![Role](https://img.shields.io/badge/ROLE-JUNIOR%20SQA%20ENGINEER-00BFFF?style=for-the-badge)
 ![Level](https://img.shields.io/badge/LEVEL-JUNIOR%20→%20RISING-orange?style=for-the-badge)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Tamim-hasan12&color=00F7C0&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## [ QA_PROFILE ]
+## `[ QA_PROFILE ]`
 
 ```yaml
 name: Md. Tamim Hasan
 role: Junior SQA Engineer @ iBOS Limited (An Akij Company)
+location: Bangladesh
 focus: Manual Testing, Playwright Automation, API Testing, Load Testing (k6)
 currently_learning: Advanced Playwright, API Testing, CI/CD
 mission: Designing test cases, hunting bugs, building reliable automation
 open_to: Collaborating on QA Automation projects
 ```
 
-## [ CURRENT_MISSION ]
+## `[ CURRENT_MISSION ]`
 
 ```diff
 + Learning: Advanced Playwright automation, API Testing, CI/CD pipelines
@@ -36,7 +38,9 @@ open_to: Collaborating on QA Automation projects
 ! Goal: Land a role as a full-time Automation QA Engineer
 ```
 
-## [ ESTABLISH_CONNECTION ]
+---
+
+## `[ ESTABLISH_CONNECTION ]`
 
 <div align="center">
 
@@ -45,7 +49,9 @@ open_to: Collaborating on QA Automation projects
 
 </div>
 
-## [ TECH_ARSENAL ]
+---
+
+## `[ TECH_ARSENAL ]`
 
 <div align="center">
 
@@ -61,20 +67,36 @@ open_to: Collaborating on QA Automation projects
 
 </div>
 
-## [ SKILL_MATRIX ]
+---
+
+## `[ SKILL_MATRIX ]`
 
 | Skill Area | Proficiency |
 |---|---|
 | Manual Testing | ████████████████████ 95% |
 | Test Case Design | ██████████████████ 90% |
-| Playwright Automation | ██████████████ 70% |
-| API Testing (Postman) | ████████████████ 80% |
-| Load Testing (k6) | ██████████████ 65% |
-| JavaScript | ██████████████ 70% |
-| SQL / Database Testing | ████████████████ 80% |
 | Bug Tracking (Jira) | ██████████████████ 90% |
+| API Testing (Postman) | ████████████████ 80% |
+| SQL / Database Testing | ████████████████ 80% |
+| Playwright Automation | ██████████████ 70% |
+| JavaScript | ██████████████ 70% |
+| Load Testing (k6) | ██████████████ 65% |
 
-## [ ACTIVITY_TRACE ]
+---
+
+## `[ FEATURED_OPERATIONS ]`
+
+<div align="center">
+
+<a href="https://github.com/Tamim-hasan12/Manual-QA-Docs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamim-hasan12&repo=Manual-QA-Docs&theme=radical" /></a>&nbsp;<a href="https://github.com/Tamim-hasan12/Peopledesk-Demo-Playwright-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamim-hasan12&repo=Peopledesk-Demo-Playwright-automation&theme=radical" /></a>
+
+<a href="https://github.com/Tamim-hasan12/Manual-testing-blc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamim-hasan12&repo=Manual-testing-blc&theme=radical" /></a>&nbsp;<a href="https://github.com/Tamim-hasan12/Website-load-test-jmeter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamim-hasan12&repo=Website-load-test-jmeter&theme=radical" /></a>
+
+</div>
+
+---
+
+## `[ ACTIVITY_TRACE ]`
 
 <div align="center">
 
@@ -84,11 +106,15 @@ open_to: Collaborating on QA Automation projects
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tamim-hasan12&theme=radical)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tamim-hasan12&theme=redical&bg_color=141321&color=00F7C0&line=00F7C0&point=fe428e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Tamim-hasan12&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
 
-## [ SNAKE ATTACKING MY CONTRIBUTIONS ]
+---
+
+## `[ SNAKE ATTACKING MY CONTRIBUTIONS ]`
 
 <div align="center">
 
@@ -103,5 +129,7 @@ open_to: Collaborating on QA Automation projects
 *Open to collaborating on QA Automation projects — feel free to connect!*
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,50:003D33,100:0D1117&section=footer&text=◆+STAY+CURIOUS.+TEST+HARD.+SHIP+QUALITY+◆&fontSize=15&fontColor=00F7C0&fontAlignY=68&animation=twinkling"/>
 
 </div>
