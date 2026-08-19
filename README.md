@@ -96,7 +96,7 @@
 
 <a href="https://github.com/Tamim-hasan12/Manual-QA-Docs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamim-hasan12&repo=Manual-QA-Docs&theme=radical" /></a>&nbsp;<a href="https://github.com/Tamim-hasan12/Peopledesk-Demo-Playwright-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamim-hasan12&repo=Peopledesk-Demo-Playwright-automation&theme=radical" /></a>
 
-<a href="https://github.com/Tamim-hasan12/Manual-testing-blc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamim-hasan12&repo=Manual-testing-blc&theme=radical" /></a>&nbsp;<a href="https://github.com/Tamim-hasan12/Website-load-test-jmeter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamim-hasan12&repo=Website-load-test-jmeter&theme=radical" /></a>
+<a href="https://github.com/Tamim-hasan12/Manual-testing-blc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamim-hasan12&repo=Manual-testing-blc&theme=radical" /></a>&nbsp;<a href="https://github.com/Tamim-hasan12/website-load-test-jmeter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamim-hasan12&repo=website-load-test-jmeter&theme=radical" /></a>
 
 </div>
 
