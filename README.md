@@ -77,16 +77,22 @@
 
 ## `[ SKILL_MATRIX ]`
 
-| Skill Area | Proficiency |
-|---|---|
-| Manual Testing | ████████████████████ 95% |
-| Test Case Design | ██████████████████ 90% |
-| Bug Tracking (Jira) | ██████████████████ 90% |
-| API Testing (Postman) | ████████████████ 80% |
-| SQL / Database Testing | ████████████████ 80% |
-| Playwright Automation | ██████████████ 70% |
-| JavaScript | ██████████████ 70% |
-| Load Testing (k6) | ██████████████ 65% |
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                       ◈ ABILITY SCORE BREAKDOWN ◈                        ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  MANUAL TESTING      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱    95%  [ ADVANCED ]                ║
+║  TEST CASE DESIGN    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱    90%  [ ADVANCED ]                ║
+║  BUG TRACKING (JIRA) ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱    90%  [ ADVANCED ]                ║
+║  API TESTING         ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱    80%  [ RISING  ↑ ]               ║
+║  SQL / DB TESTING    ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱    80%  [ RISING  ↑ ]               ║
+║  PLAYWRIGHT AUTO     ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱    70%  [ GROWING ↑ ]               ║
+║  JAVASCRIPT          ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱    70%  [ GROWING ↑ ]               ║
+║  LOAD TESTING (K6)   ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱    65%  [ GROWING ↑ ]               ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
