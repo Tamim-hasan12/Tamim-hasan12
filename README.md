@@ -17,25 +17,31 @@
 
 ---
 
-## `[ QA_PROFILE ]`
+## `[ HUNTER_ID ]`
 
-```yaml
-name: Md. Tamim Hasan
-role: Junior SQA Engineer @ iBOS Limited (An Akij Company)
-location: Bangladesh
-focus: Manual Testing, Playwright Automation, API Testing, Load Testing (k6)
-currently_learning: Advanced Playwright, API Testing, CI/CD
-mission: Designing test cases, hunting bugs, building reliable automation
-open_to: Collaborating on QA Automation projects
+```
+╔════════════════════════════════════════════════╗
+║  Hunter_ID : Md. Tamim Hasan                    ║
+║  CALLSIGN  : Tamim-hasan12                      ║
+║  CLASS     : Junior SQA Engineer                ║
+║  BASE      : iBOS Limited (An Akij Company)     ║
+║  SECTOR    : Quality Assurance                  ║
+║  PROTOCOL  : Manual | Playwright | k6           ║
+║  CLEARANCE : Manual + Automation QA             ║
+║  Signal    : tamimhasanshad333@gmail.com        ║
+║  THREAT_LVL: ☠☠☠☠ ↑ · BUGS BEWARE              ║
+╚════════════════════════════════════════════════╝
 ```
 
 ## `[ CURRENT_MISSION ]`
 
-```diff
-+ Learning: Advanced Playwright automation, API Testing, CI/CD pipelines
-+ Building: A personal QA automation portfolio project
-+ Exploring: Docker basics for test environment setup
-! Goal: Land a role as a full-time Automation QA Engineer
+```
+╔═══════════════════════════════════════════════════════╗
+║  LEARNING  : Advanced Playwright, API Testing, CI/CD  ║
+║  BUILDING  : Personal QA Automation Portfolio         ║
+║  EXPLORING : Docker for Test Environments             ║
+║  GOAL      : Full-time Automation QA Engineer         ║
+╚═══════════════════════════════════════════════════════╝
 ```
 
 ---
